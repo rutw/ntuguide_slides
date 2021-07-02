@@ -1,4 +1,4 @@
-# 那些關於台大的事情（ntuguide）
+# 那些關於台大的事情（ntuguide_sildes）
 
 - 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
 
@@ -16,7 +16,7 @@
 
 - 本手冊以 reveal.js 框架生成，以「創用 CC 姓名標示（Attribution）- 非商業性（NonCommercial）- 禁止改作（NoDerivs） 3.0 台灣」授權條款釋出。
 - Made by rutw / Recent Update: 2020 September
-- Sourse Code or Star me：https://github.com/rutw/ntuguide
+- Sourse Code or Star me：https://github.com/rutw/ntuguide_sildes
 
 ## 更新
 
