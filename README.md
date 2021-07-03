@@ -2,6 +2,8 @@
 
 - 回饋／勘誤／問題：https://docs.google.com/forms/d/e/1FAIpQLSdOHYHOZnlHL80_IcYOTvNBQOoUlvvNWfsnmtR50ruIxCPjaQ/viewform
 
+※ （2021 July）Update: 本投影片將不再更新，煩請移駕到隔壁的 [「那些關於台大的事情」［手冊版］](https://github.com/rutw/ntuguide) 以獲取最新資訊。
+
 ## 為什麼要寫這個東西？
 
 國立臺灣大學的各行政組織單位其實很像春秋戰國時代的各個諸侯國，校內的機關、處室、系所雖然表面上都圍繞著「國立臺灣大學」這個名義運作，但「國立臺灣大學」就跟周天子一樣僅僅是個吉祥物，實際上內部關係既獨立又平行。
@@ -32,3 +34,4 @@
 - ver. Lambda @2018-07-31, fixed dates.
 - ver. Mu @2018-08-13, update 2018's schedule.
 - ver. Nu @2020-09-09
+- ver. Xi @2021-07-03 Final Update
